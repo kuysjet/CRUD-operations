@@ -1,3 +1,3 @@
 # CRUD-operations
 
-## **BASIC CRUD operations**
+-BASIC CRUD operations
