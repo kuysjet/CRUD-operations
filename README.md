@@ -1,4 +1,4 @@
 # CRUD-operations
 
--Basic CRUD app using php
+-Basic CRUD operations in php
 
